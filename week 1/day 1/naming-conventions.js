@@ -19,8 +19,12 @@ class MyClass {
 // Fields: camel-cased
     myField;
 
+    // camel-case
+    myFunction() {}
 }
 
+// filename: kebab-case
+// naming-conventions.js
 
 
 
